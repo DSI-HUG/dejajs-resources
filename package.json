@@ -1,0 +1,19 @@
+{
+    "name": "@deja-js/resources",
+    "version": "0.0.1",
+    "description": "DEJA JS Resources",
+    "homepage": "https://github.com/DSI-HUG/deja-js",
+    "bugs": "https://github.com/DSI-HUG/deja-js/issues",
+    "author": "Team DSI-HUG",
+    "license": "Apache-2.0",
+    "scripts": {
+        "publish": "npm publish ."
+    },
+    "dependencies": {
+
+
+    },
+    "devDependencies": {
+
+    }
+}
