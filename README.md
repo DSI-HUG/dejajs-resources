@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/%40deja-js%2Fresources.svg)](https://www.npmjs.com/package/@deja-js/resources)
+
 # @deja-js/resources
 
 Librairie contenant les resources nécessaires pour @deja-js/component (fonts, ...)
