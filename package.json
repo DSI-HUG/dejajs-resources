@@ -6,6 +6,9 @@
     "bugs": "https://github.com/DSI-HUG/dejajs-resources/issues",
     "author": "Team DSI-HUG",
     "license": "Apache-2.0",
+    "scripts": {
+        "test": "echo"
+    },
     "dependencies": {
 
 
