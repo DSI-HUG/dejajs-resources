@@ -12,5 +12,6 @@ git tag $VERSION
 # eval `ssh-agent -s`
 # ssh-add deploy_key
 
+git remote rm origin
 git remote add origin https://rtrompier:${GITHUB_TOKEN}@github.com/user/repo.git
 git push --tags
