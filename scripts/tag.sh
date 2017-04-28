@@ -13,5 +13,5 @@ git tag $VERSION
 # ssh-add deploy_key
 
 git remote rm origin
-git remote add origin https://rtrompier:${GITHUB_TOKEN}@github.com/user/repo.git
+git remote add origin https://rtrompier:${GITHUB_TOKEN}@github.com/DSI-HUG/dejajs-resources.git
 git push --tags
