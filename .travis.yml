@@ -17,7 +17,7 @@ branches:
   - master
 env:
   global:
-  - ENCRYPTION_LABEL: d9215e5535f8
+  - ENCRYPTION_LABEL: 1787b3626f8e
   - COMMIT_AUTHOR_EMAIL: travis@hcuge.ch
 deploy:
   provider: npm
