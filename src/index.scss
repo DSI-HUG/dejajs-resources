@@ -1,0 +1,7 @@
+@import './scss/fonts/material-icons/material-icons';
+@import './scss/fonts/roboto/roboto';
+
+@mixin deja-fonts() {
+    @include load-materialicons();
+    @include load-roboto();
+}
